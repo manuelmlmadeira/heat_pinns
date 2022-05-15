@@ -4,7 +4,7 @@ Solving the heat partial differential equation with Physics-Informed Neural Netw
 ## Information:
 
 + [Heat Equation (and a classical solution)](https://levelup.gitconnected.com/solving-2d-heat-equation-numerically-using-python-3334004aa01a);
-+ [Physics-Informed Neural Networks original paper](https://arxiv.org/abs/1711.10561)
++ [Physics-Informed Neural Networks original paper](https://arxiv.org/abs/1711.10561).
 
 ---
 ## Implementation:
